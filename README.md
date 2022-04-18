@@ -1,3 +1,3 @@
 # Q-A-Web-App-Luxor-Theater
 
-School project for New Luxor Theater
+Q&A web app voor het luxor theater, gemaakt in jaar 1
